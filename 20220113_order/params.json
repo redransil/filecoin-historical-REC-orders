@@ -1,7 +1,8 @@
 {
-  'energyUseFolder': '20220101_REC_calcs',
-  'locations':'20220108_minerLocationsReport.json',
-  'prevOrders':['20211025_all_energyByMonth.csv',
-    '20220111_Q1_orderA_SingleLocation.csv']
-  'description':'Calculation of additional RECs, using new location data from Jim Pick'
+  "orderFoler":"20220113_order",
+  "energyUseFolder": "20220101_REC_calcs",
+  "locations": "20220108_minerLocationsReport.json",
+  "prevOrders":["20211025_all_energyByMonth.csv",
+    "20220111_Q1_orderA_SingleLocation.csv"],
+  "description":"Calculation of additional RECs, using new location data from Jim Pick"
 }
